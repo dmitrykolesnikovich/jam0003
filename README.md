@@ -1,4 +1,4 @@
-Winners: asmscript, cherry
+Winners: asmscript, cherry, tux
 
 # Jam #3
 
