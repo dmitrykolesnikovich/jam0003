@@ -1,3 +1,5 @@
+Winners: asmscript, cherry
+
 # Jam #3
 
 Welcome to the third langjam!
